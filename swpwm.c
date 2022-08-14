@@ -4,7 +4,7 @@
  *
  * File Name: pwm.c
  *
- * Description: Source file for the ATmega16 PWM driver
+ * Description: Source file for the PWM driver
  *
  * Author: Menna Saeed
  *
